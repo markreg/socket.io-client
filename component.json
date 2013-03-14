@@ -1,6 +1,7 @@
 {
   "name": "socket.io",
   "version": "1.0.0",
+  "main": "lib/index.js",
   "dependencies": {
     "learnboost/engine.io-client": "0.4.0",
     "learnboost/socket.io-protocol": "1.0.2",
@@ -16,6 +17,8 @@
     "lib/manager.js",
     "lib/engine.js",
     "lib/socket.js",
-    "lib/emitter.js"
+    "lib/emitter.js",
+    "lib/url.js",
+    "lib/on.js"
   ]
 }
